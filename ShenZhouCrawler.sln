@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShenZhou.Car.Crawler", "Wesley.Crawler.SimpleCrawler\ShenZhou.Car.Crawler.csproj", "{B4E2C232-D3A1-4C03-8CA6-65FC9A5D4B63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShenZhou.Car.Crawler", "ShenZhou.Car.Crawler\ShenZhou.Car.Crawler.csproj", "{B4E2C232-D3A1-4C03-8CA6-65FC9A5D4B63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
