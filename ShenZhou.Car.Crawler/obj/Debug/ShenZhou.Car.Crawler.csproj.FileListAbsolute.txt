@@ -1,0 +1,15 @@
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\ShenZhou.Car.Crawler.exe.config
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\ShenZhou.Car.Crawler.exe
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\ShenZhou.Car.Crawler.pdb
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\WebDriver.dll
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\WebDriver.xml
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\ShenZhou.Car.Crawler.exe
+D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\ShenZhou.Car.Crawler.pdb
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\bin\Debug\ShenZhou.Car.Crawler.exe.config
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\obj\Debug\ShenZhou.Car.Crawler.exe
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\obj\Debug\ShenZhou.Car.Crawler.pdb
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\bin\Debug\ShenZhou.Car.Crawler.exe
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\bin\Debug\ShenZhou.Car.Crawler.pdb
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\bin\Debug\WebDriver.dll
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\bin\Debug\WebDriver.xml
+D:\Crawler\ShenZhou.Car.Crawler\ShenZhou.Car.Crawler\obj\Debug\ShenZhou.Car.Crawler.csprojResolveAssemblyReference.cache
