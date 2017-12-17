@@ -56,7 +56,6 @@
     <Compile Include="Events\OnStartEventArgs.cs" />
     <Compile Include="ICrawler.cs" />
     <Compile Include="Models\City.cs" />
-    <Compile Include="Models\Hotel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShenZhouCrawler.cs" />
