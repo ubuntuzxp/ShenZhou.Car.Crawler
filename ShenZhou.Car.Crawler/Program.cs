@@ -7,11 +7,11 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Collections;
 using System.Net;
-using Wesley.Crawler.SimpleCrawler.Models;
+using ShenZhou.Car.Crawler.Models;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium;
 
-namespace Wesley.Crawler.SimpleCrawler
+namespace ShenZhou.Car.Crawler
 {
     class Program
     {

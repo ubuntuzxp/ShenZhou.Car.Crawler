@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Wesley.Crawler.SimpleCrawler.Events
+namespace ShenZhou.Car.Crawler.Events
 {
     public class OnErrorEventArgs: EventArgs
     {

@@ -1,9 +1,0 @@
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe.config
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.pdb
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.csprojResolveAssemblyReference.cache
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.exe
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.pdb
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\WebDriver.dll
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\WebDriver.xml
-D:\study .net\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\ShenZhou.Car.Crawler.exe.config

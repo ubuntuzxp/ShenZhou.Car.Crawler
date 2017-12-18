@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Wesley.Crawler.SimpleCrawler.Models
+namespace ShenZhou.Car.Crawler.Models
 {
     public class Car
     {

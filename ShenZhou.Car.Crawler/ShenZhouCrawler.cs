@@ -9,9 +9,9 @@ using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Wesley.Crawler.SimpleCrawler.Events;
+using ShenZhou.Car.Crawler.Events;
 
-namespace Wesley.Crawler.SimpleCrawler
+namespace ShenZhou.Car.Crawler
 {
     public class ShenZhouCrawler : ICrawler
     {
